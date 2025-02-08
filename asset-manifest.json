@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/PaySlipGenerater/static/css/main.530ea8fc.css",
-    "main.js": "/PaySlipGenerater/static/js/main.e317f35e.js",
+    "main.css": "/PaySlipGenerater/static/css/main.277d84e6.css",
+    "main.js": "/PaySlipGenerater/static/js/main.1d7556ba.js",
     "static/js/213.428bafe3.chunk.js": "/PaySlipGenerater/static/js/213.428bafe3.chunk.js",
     "static/js/455.6bb37d89.chunk.js": "/PaySlipGenerater/static/js/455.6bb37d89.chunk.js",
     "static/media/logo.PNG": "/PaySlipGenerater/static/media/logo.fc45834a437715b28596.PNG",
     "index.html": "/PaySlipGenerater/index.html",
-    "main.530ea8fc.css.map": "/PaySlipGenerater/static/css/main.530ea8fc.css.map",
-    "main.e317f35e.js.map": "/PaySlipGenerater/static/js/main.e317f35e.js.map",
+    "main.277d84e6.css.map": "/PaySlipGenerater/static/css/main.277d84e6.css.map",
+    "main.1d7556ba.js.map": "/PaySlipGenerater/static/js/main.1d7556ba.js.map",
     "213.428bafe3.chunk.js.map": "/PaySlipGenerater/static/js/213.428bafe3.chunk.js.map",
     "455.6bb37d89.chunk.js.map": "/PaySlipGenerater/static/js/455.6bb37d89.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.530ea8fc.css",
-    "static/js/main.e317f35e.js"
+    "static/css/main.277d84e6.css",
+    "static/js/main.1d7556ba.js"
   ]
 }
