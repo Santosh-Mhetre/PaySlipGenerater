@@ -168,9 +168,7 @@ const PaySlip = ({ employeeData, companyDetails }) => {
                     </div>
                 </div>
 
-                <div class="footer">
-                    <p>This is a computer-generated Pay slip. No Signature is required.</p>
-                </div>
+                
             </div>
         `;
 

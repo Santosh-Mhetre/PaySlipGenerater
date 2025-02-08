@@ -1,9 +1,19 @@
-.payslip-container {
-    max-width: 800px;
-    margin: 20px auto;
-    padding: 20px;
-    font-family: Arial, sans-serif;
+.payslip-page {
     background: white;
+    width: 210mm;
+    min-height: 297mm;
+    padding: 20mm;
+    margin: 0 auto;
+    position: relative;
+    box-sizing: border-box;
+    page-break-after: always;
+}
+
+.payslip-container {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
 }
 
 .header {
@@ -172,13 +182,16 @@
 
 .footer {
     text-align: center;
-    margin-top: 20px;
     padding: 8px;
     background-color: #ecebe0;
     font-style: italic;
     font-size: 11px;
     font-weight: bold;
     color: black;
+    position: absolute;
+    bottom: 20mm;
+    left: 20mm;
+    right: 20mm;
 }
 
 .download-button {
